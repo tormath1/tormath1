@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+if you can read this, it means Microsoft did not kill yet GH ! 
+
+twitter: @tormath1
+
 <!--
 **tormath1/tormath1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
