@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-if you can read this, it means Microsoft did not kill yet GH ! 
+if you can read this, it means that Microsoft did not kill GH yet ! 
 
 twitter: @tormath1
 
